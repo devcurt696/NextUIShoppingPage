@@ -13,7 +13,7 @@
     "@next/font": "13.1.4",
     "@nextui-org/react": "^1.0.0-beta.12",
     "eslint": "8.32.0",
-    "eslint-config-next": "13.1.4",
+    "eslint-config-next": "13.4.4",
     "next": "13.1.4",
     "react": "18.2.0",
     "react-aria": "^3.22.0",
