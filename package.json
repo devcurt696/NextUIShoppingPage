@@ -14,7 +14,7 @@
     "@nextui-org/react": "^1.0.0-beta.12",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.4",
-    "next": "13.1.4",
+    "next": "13.4.8",
     "react": "18.2.0",
     "react-aria": "^3.22.0",
     "react-dom": "18.2.0"
