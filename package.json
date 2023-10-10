@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@heroicons/react": "^2.0.13",
+    "@heroicons/react": "^2.0.18",
     "@next/font": "13.1.4",
     "@nextui-org/react": "^1.0.0-beta.12",
     "eslint": "8.32.0",
